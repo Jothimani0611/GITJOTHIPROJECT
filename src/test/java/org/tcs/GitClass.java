@@ -11,5 +11,13 @@ public class GitClass {
 	private void jothi3() {
 		System.out.println("I am fun3");
 	}
+	private void jothi4() {
+		System.out.println("I am fun4");
+
+	}
+	private void jothi5() {
+		System.out.println("I am fun5");
+
+	}
 
 }
