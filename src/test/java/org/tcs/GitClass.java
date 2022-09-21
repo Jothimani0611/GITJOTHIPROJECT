@@ -11,6 +11,9 @@ public class GitClass {
 	private void jothi3() {
 		System.out.println("I am fun3");
 	}
+
+	
+
 	private void jothi4() {
 		System.out.println("I am fun4");
 
@@ -19,5 +22,14 @@ public class GitClass {
 		System.out.println("I am fun5");
 
 	}
+	private void meenachi1() {
+		System.out.println("I fun7");
+
+	}
+private void meenachi2() {
+	System.out.println("I am fun8");
+}
+
 
 }
+
